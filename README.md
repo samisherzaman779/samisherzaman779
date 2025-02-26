@@ -6,7 +6,7 @@ I'm **Sami Sherzaman**, a passionate **Web Developer**, an aspiring **AI innovat
 
 ## 🌟 **Who Am I?**  
 - 🖥️ A **self-driven coder** crafting creative web solutions with **TypeScript**, **Python**, and modern technologies.  
-- 🤖 A curious explorer of **Agentic AI Development** like **LangChain & LangGraph**.  
+- 🤖 A curious explorer of **Agentic AI Development** like **LangChain, LangGraph & Crewai**.  
 - 🎯 Always ready to take on new challenges and deliver **impactful projects**.  
 
 ---
