@@ -229,24 +229,19 @@
 
 ## `05` — Contribution Activity
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/samisherzaman779/samisherzaman779/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/samisherzaman779/samisherzaman779/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/samisherzaman779/samisherzaman779/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
-</div>
+## 🐍 GitHub Contribution Snake
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/samisherzaman779/samisherzaman779/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>A visual journey of my coding contributions.</i>
+</p>
 
 *The contribution animation will appear after the GitHub Actions workflow has run successfully.*
 
