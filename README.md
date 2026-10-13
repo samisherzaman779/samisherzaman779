@@ -18,19 +18,141 @@
 
 ---
 
-## `01` — About Me
 
-Hi! I'm **Sami Sherzaman**, a developer interested in building intelligent applications, practical AI solutions, and modern web experiences.
+<!-- ═════════════ ABOUT ME / AI COMMAND CENTER ═════════════ -->
 
-My work and learning focus on connecting software engineering with AI-powered functionality.
+<h2 align="center">01 // SYSTEM PROFILE</h2>
 
-- **AI Engineering:** LLM integrations, AI chatbots, agentic workflows, and RAG concepts.
-- **Web Development:** Full-stack applications with React, Next.js, TypeScript, and Tailwind CSS.
-- **Automation:** Python scripting, web scraping, APIs, and workflow automation.
-- **Backend & Data:** PostgreSQL, Prisma, Supabase, and application integrations.
-- **Engineering mindset:** Build useful projects, learn continuously, and improve through implementation.
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/SYSTEM-ONLINE-06B6D4?style=for-the-badge&logo=statuspage&logoColor=white"
+    alt="System online"
+  />
+  <img
+    src="https://img.shields.io/badge/FOCUS-AGENTIC_AI-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8"
+    alt="Agentic AI focus"
+  />
+  <img
+    src="https://img.shields.io/badge/MODE-BUILD%20%26%20LEARN-075985?style=for-the-badge&logo=github&logoColor=white"
+    alt="Build and learn"
+  />
+</div>
 
-> My goal is to turn ideas into practical, maintainable, and user-friendly software.
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <h3>👨‍💻 Developer Identity</h3>
+      <samp>
+        > Initializing developer profile...<br/>
+        > Name: Sami Sherzaman<br/>
+        > Domain: AI + Software Engineering<br/>
+        > Mission: Build useful intelligent systems<br/>
+        > Status: Learning, building, improving_
+      </samp>
+      <br/><br/>
+      I'm a developer focused on combining modern software
+      engineering with AI-powered applications and automation.
+      I enjoy turning ideas into practical projects, exploring
+      new technologies, and improving solutions through hands-on work.
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">⚡ CORE CAPABILITIES</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Agentic AI</h3>
+      <p>
+        Exploring AI agents, LLM integrations, RAG concepts,
+        and intelligent workflows that connect models with
+        useful application functionality.
+      </p>
+      <p>
+        <code>LLMs</code>
+        <code>RAG</code>
+        <code>AI Workflows</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Full-Stack Engineering</h3>
+      <p>
+        Developing modern web applications with responsive
+        interfaces, backend integrations, databases,
+        and practical user experiences.
+      </p>
+      <p>
+        <code>Next.js</code>
+        <code>TypeScript</code>
+        <code>PostgreSQL</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Automation & Data</h3>
+      <p>
+        Building Python scripts, exploring web scraping,
+        connecting APIs, and streamlining repetitive
+        development and data workflows.
+      </p>
+      <p>
+        <code>Python</code>
+        <code>APIs</code>
+        <code>Automation</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Application Engineering</h3>
+      <p>
+        Working with modern development tools, backend
+        services, databases, and deployment platforms
+        to turn ideas into accessible applications.
+      </p>
+      <p>
+        <code>Supabase</code>
+        <code>Prisma</code>
+        <code>Vercel</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">🧠 ENGINEERING PHILOSOPHY</h3>
+
+<div align="center">
+  <samp>
+    Understand → Design → Build → Test → Improve
+  </samp>
+  <br/><br/>
+  <i>
+    Not just writing code — building software that solves
+    meaningful problems.
+  </i>
+</div>
+
+<h3 align="center">🔗 ESTABLISH CONNECTION</h3>
+
+<div align="center">
+  <a href="https://samisherzaman.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Explore portfolio"
+    />
+  </a>
+  <a href="https://github.com/samisherzaman779?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/REPOSITORIES-VIEW-0F172A?style=for-the-badge&logo=github&logoColor=white"
+      alt="View repositories"
+    />
+  </a>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
 
 ## `02` — Technology Stack
 
@@ -104,13 +226,27 @@ My work and learning focus on connecting software engineering with AI-powered fu
 
 </div>
 
+
 ## `05` — Contribution Activity
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/samisherzaman779/samisherzaman779/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution graph" />
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/samisherzaman779/samisherzaman779/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/samisherzaman779/samisherzaman779/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/samisherzaman779/samisherzaman779/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
 </div>
+
 
 *The contribution animation will appear after the GitHub Actions workflow has run successfully.*
 
